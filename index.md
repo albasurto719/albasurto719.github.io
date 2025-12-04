@@ -4,11 +4,11 @@ This is my coding home page! My name is Alexander Basurto and I am a student at 
 
 ## Computer Science Projects
 
-My GitHub page --> http://github.com/albasurto719.
+My GitHub page --> http://github.com/albasurto719
 
 ### CPSC 120 Labs. More info!! |
-###                            v
-###                            v
+### ///////////////////////////v
+### ///////////////////////////v
 * Lab 7
 
     Lab 7 was one of the only labs with just one part, but I really enjoyed making our own parking program. We were able to use functions that could determine specific times where someone was able to park where. I was a fan of utilizng command line arguments to identify the days and time permitted for each street.
